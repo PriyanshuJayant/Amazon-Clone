@@ -152,7 +152,8 @@ span{
     height: 400px;
     width:23%;
     background-color: white;
-    padding:20px 0px 15px;
+    padding:20px 0px 15px ;
+    margin-bottom:20px;
 
 }
 .box-img{
