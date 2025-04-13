@@ -141,3 +141,12 @@ span{
     background-size: cover;
     height:400px;
 }
+.shop{
+    display:flex;
+    justify-content: space-evenly;
+}
+.box{
+    height: 400px;
+    border:2px solid black;
+    width:23%;
+}
